@@ -1,0 +1,15 @@
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\bin\Debug\DataBase.mdf
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\bin\Debug\DataBase_log.ldf
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\bin\Debug\FluentApiLesson.exe.config
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\bin\Debug\FluentApiLesson.exe
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\bin\Debug\FluentApiLesson.pdb
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\bin\Debug\EntityFramework.dll
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\bin\Debug\EntityFramework.xml
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\obj\Debug\FluentApiLesson.csprojAssemblyReference.cache
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\obj\Debug\FluentApiLesson.csproj.CoreCompileInputs.cache
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\obj\Debug\FluentApiLesson.csproj.CopyComplete
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\obj\Debug\FluentApiLesson.exe
+C:\Users\ДжабашевН.CORP\source\repos\FluentApiLesson\FluentApiLesson\obj\Debug\FluentApiLesson.pdb
